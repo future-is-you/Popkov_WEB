@@ -1,1 +1,2 @@
 ﻿1.Створюю на GitHub з назвою Popkov_WEB.
+2.git clon
