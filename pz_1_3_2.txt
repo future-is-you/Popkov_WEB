@@ -1,0 +1,17 @@
+﻿git branch pz_1_3_1
+git checkout pz_1_3_1
+git add pz_1_3_1.txt
+git commit -m "Створюю новий репозиторій"
+git add .
+git commit -m "Створюю файл numbPIB.txt"
+git add .
+git commit -m "Додаю файл для відстеження"
+git add .
+git commit -m "Додаю дані та роблю комміт"
+git add .
+git commit -m "Відправляю зміни на глобальний репозиторій"
+git add .
+git checkout master
+git branch -D pz_1_3_1
+git push
+git branch Developer
